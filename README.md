@@ -1,2 +1,2 @@
 # motor_scraper
-scraping motor bekas
+Used bike scraping using Python
